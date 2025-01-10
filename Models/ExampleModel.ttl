@@ -1,0 +1,789 @@
+@prefix beo: <https://pi.pauwel.be/voc/buildingelement#> .
+@prefix bot: <https://w3id.org/bot#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://example.org/ExampleModel/0$UXlppdT9YACtFHzblrnT> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:553557"@en ;
+    bot:containsElement <http://example.org/ExampleModel/02wOJQ5rf4aP8tIRXMG7I5>,
+        <http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQY> .
+
+<http://example.org/ExampleModel/0$UXlppdT9YACtFHzblrpt> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:553727"@en ;
+    bot:containsElement <http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQ_>,
+        <http://example.org/ExampleModel/3Q5exPL5nAoumwdM9a75Ew> .
+
+<http://example.org/ExampleModel/005zNlrXLENwWXieJgn$GA> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:634743"@en .
+
+<http://example.org/ExampleModel/005zNlrXLENwWXieJgn$N0> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:634557"@en .
+
+<http://example.org/ExampleModel/005zNlrXLENwWXieJgn$N1> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:634556"@en .
+
+<http://example.org/ExampleModel/005zNlrXLENwWXieJgn_ez> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:635200"@en .
+
+<http://example.org/ExampleModel/005zNlrXLENwWXieJgn_f2> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:635199"@en .
+
+<http://example.org/ExampleModel/005zNlrXLENwWXieJgn_f8> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:635189"@en .
+
+<http://example.org/ExampleModel/005zNlrXLENwWXieJgn_f9> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:635188"@en .
+
+<http://example.org/ExampleModel/005zNlrXLENwWXieJgn_yM> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:636011"@en .
+
+<http://example.org/ExampleModel/08VOG_Dq9DOBDJ7IX8mdtZ> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:651569"@en .
+
+<http://example.org/ExampleModel/08VOG_Dq9DOBDJ7IX8mdx2> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:651792"@en .
+
+<http://example.org/ExampleModel/08VOG_Dq9DOBDJ7IX8mdxA> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:651800"@en .
+
+<http://example.org/ExampleModel/08VOG_Dq9DOBDJ7IX8mdxW> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:651826"@en .
+
+<http://example.org/ExampleModel/08VOG_Dq9DOBDJ7IX8mdxe> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:651834"@en .
+
+<http://example.org/ExampleModel/08VOG_Dq9DOBDJ7IX8mdxo> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:651808"@en .
+
+<http://example.org/ExampleModel/08VOG_Dq9DOBDJ7IX8mdxu> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:651818"@en .
+
+<http://example.org/ExampleModel/0DAjtiy$j64gdAhelV92_3> a beo:Slab-ROOF ;
+    rdfs:label "Basic_Roof:HistoricRoof:1003985"@en .
+
+<http://example.org/ExampleModel/0G0FR7IBT1mO5rkd3ATgwb> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:954036"@en .
+
+<http://example.org/ExampleModel/0KSBS4wHzEXRfbOpcFCl8d> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:656036"@en .
+
+<http://example.org/ExampleModel/0KSBS4wHzEXRfbOpcFCl9G> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:656083"@en .
+
+<http://example.org/ExampleModel/0KSBS4wHzEXRfbOpcFClAP> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:655898"@en .
+
+<http://example.org/ExampleModel/0KSBS4wHzEXRfbOpcFClBm> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:655987"@en .
+
+<http://example.org/ExampleModel/0KSBS4wHzEXRfbOpcFClEk> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:656173"@en .
+
+<http://example.org/ExampleModel/0VCUOOH0nEuRxc28jG$T2n> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:947212"@en .
+
+<http://example.org/ExampleModel/0VCUOOH0nEuRxc28jG$T6J> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:947502"@en .
+
+<http://example.org/ExampleModel/0VCUOOH0nEuRxc28jG$TBB> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:947830"@en .
+
+<http://example.org/ExampleModel/0VCUOOH0nEuRxc28jG$TCU> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:948131"@en .
+
+<http://example.org/ExampleModel/0VCUOOH0nEuRxc28jG$TKv> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:946564"@en .
+
+<http://example.org/ExampleModel/0VCUOOH0nEuRxc28jG$TOY> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:946847"@en .
+
+<http://example.org/ExampleModel/0VCUOOH0nEuRxc28jG$Tsb> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:948504"@en .
+
+<http://example.org/ExampleModel/0VCUOOH0nEuRxc28jG$Tug> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:948887"@en .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2i$m> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:314795"@en .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2iWA> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:313937"@en ;
+    bot:containsElement <http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdIl>,
+        <http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdJa> .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2iYY> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:314105"@en ;
+    bot:containsElement <http://example.org/ExampleModel/1hyBiYVnrBYBB5mnZfpY$_>,
+        <http://example.org/ExampleModel/1hyBiYVnrBYBB5mnZfpYuB>,
+        <http://example.org/ExampleModel/1hyBiYVnrBYBB5mnZfpYy7>,
+        <http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMd7Y> .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2idO> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:314243"@en ;
+    bot:containsElement <http://example.org/ExampleModel/0c9XrSCgj1NQdKiSCtKQRm> .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2isd> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:315388"@en ;
+    bot:containsElement <http://example.org/ExampleModel/2WtfnTF6L6EAnZXb7ltV1B> .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2j1K> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry5_40:315919"@en .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2j3J> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:316040"@en .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2jA3> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:315608"@en .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2jE0> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:315867"@en .
+
+<http://example.org/ExampleModel/0cneyOu3fFBv9VTmum2jF3> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:315800"@en .
+
+<http://example.org/ExampleModel/0dEM_S4CLC9eDYKSHkk3Zy> a beo:Slab-ROOF ;
+    rdfs:label "Basic_Roof:HistoricRoof:1015659"@en .
+
+<http://example.org/ExampleModel/0h0okJphv7PuAyFbUx6LlA> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:623286"@en ;
+    bot:containsElement <http://example.org/ExampleModel/02wOJQ5rf4aP8tIRXMG7My>,
+        <http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdDh> .
+
+<http://example.org/ExampleModel/0h0okJphv7PuAyFbUx6LlB> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:623287"@en .
+
+<http://example.org/ExampleModel/0h0okJphv7PuAyFbUx6LlP> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:623269"@en ;
+    bot:containsElement <http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMd6k> .
+
+<http://example.org/ExampleModel/0h0okJphv7PuAyFbUx6LlQ> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:623270"@en .
+
+<http://example.org/ExampleModel/0kovVl805928hzJYHA$ECN> a beo:Slab-ROOF ;
+    rdfs:label "Basic_Roof:HistoricRoof:1004156"@en .
+
+<http://example.org/ExampleModel/0n3XYmhzv4TxgTBhF6_$xx> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:554508"@en ;
+    bot:containsElement <http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQy> .
+
+<http://example.org/ExampleModel/0n5nDnb0f3Cu87R4whyBU6> a beo:Column ;
+    rdfs:label "UC-Universal_Columns-Column:Column_StructuralTimber:639060"@en .
+
+<http://example.org/ExampleModel/0n5nDnb0f3Cu87R4whyBUE> a beo:Column ;
+    rdfs:label "UC-Universal_Columns-Column:Column_StructuralTimber:639068"@en .
+
+<http://example.org/ExampleModel/0n5nDnb0f3Cu87R4whyBUM> a beo:Column ;
+    rdfs:label "UC-Universal_Columns-Column:Column_StructuralTimber:639044"@en .
+
+<http://example.org/ExampleModel/0n5nDnb0f3Cu87R4whyBUU> a beo:Column ;
+    rdfs:label "UC-Universal_Columns-Column:Column_StructuralTimber:639052"@en .
+
+<http://example.org/ExampleModel/0n5nDnb0f3Cu87R4whyBU_> a beo:Column ;
+    rdfs:label "UC-Universal_Columns-Column:Column_StructuralTimber:639084"@en .
+
+<http://example.org/ExampleModel/0n5nDnb0f3Cu87R4whyBUs> a beo:Column ;
+    rdfs:label "UC-Universal_Columns-Column:Column_StructuralTimber:639076"@en .
+
+<http://example.org/ExampleModel/0rFJrjVMHC9AwgY$B8KSbk> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry5_70:560719"@en .
+
+<http://example.org/ExampleModel/0rFJrjVMHC9AwgY$B8KSeY> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry5_70:560387"@en .
+
+<http://example.org/ExampleModel/0rFJrjVMHC9AwgY$B8KSpQ> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry5_70:560123"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNGF> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608788"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNGG> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608779"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNGP> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608770"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNT4> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608607"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNTp> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608616"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNU3> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608664"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNUP> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608642"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNUd> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608700"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNV4> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608735"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNVD> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608726"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNVI> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608713"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNVk> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608757"@en .
+
+<http://example.org/ExampleModel/0rcbtbQWb4jeBHiJarJNVt> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:608748"@en .
+
+<http://example.org/ExampleModel/0wnklOigL2CxYxYa24OXRK> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:875896"@en .
+
+<http://example.org/ExampleModel/0wnklOigL2CxYxYa24OYY_> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:877330"@en .
+
+<http://example.org/ExampleModel/0wnklOigL2CxYxYa24OYYc> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:877322"@en .
+
+<http://example.org/ExampleModel/0wnklOigL2CxYxYa24OYYk> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:877314"@en .
+
+<http://example.org/ExampleModel/0wnklOigL2CxYxYa24OYb4> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:877288"@en .
+
+<http://example.org/ExampleModel/0wnklOigL2CxYxYa24OYbC> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:877280"@en .
+
+<http://example.org/ExampleModel/0wnklOigL2CxYxYa24OYbM> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:877306"@en .
+
+<http://example.org/ExampleModel/0wnklOigL2CxYxYa24OYbU> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:877298"@en .
+
+<http://example.org/ExampleModel/10RUY6IuD5CuBJM9e7jw_j> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:546457"@en ;
+    bot:containsElement <http://example.org/ExampleModel/02wOJQ5rf4aP8tIRXMG7GA>,
+        <http://example.org/ExampleModel/2j4ftWDnLB6BT67Gogcg63> .
+
+<http://example.org/ExampleModel/11wnrEi2H6TAvf8VGKKN$R> a beo:Slab-ROOF ;
+    rdfs:label "Basic_Roof:HistoricRoof:1009383"@en .
+
+<http://example.org/ExampleModel/11wnrEi2H6TAvf8VGKKN_T> a beo:Slab-ROOF ;
+    rdfs:label "Basic_Roof:HistoricRoof:1009313"@en .
+
+<http://example.org/ExampleModel/11wnrEi2H6TAvf8VGKKNje> a beo:Slab-ROOF ;
+    rdfs:label "Basic_Roof:HistoricRoof:1008212"@en .
+
+<http://example.org/ExampleModel/11wnrEi2H6TAvf8VOKKNje> a beo:Slab ;
+    rdfs:label "Basic_Roof:HistoricRoof:1008212"@en .
+
+<http://example.org/ExampleModel/14Hg5ZPi1EdB7g22dbnd9_> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:637193"@en .
+
+<http://example.org/ExampleModel/14Hg5ZPi1EdB7g22dbndUR> a beo:Column ;
+    rdfs:label "UC-Universal_Columns-Column:Column_StructuralTimber:638188"@en .
+
+<http://example.org/ExampleModel/169fKzLN96sw6FkhblYD2f> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:954928"@en .
+
+<http://example.org/ExampleModel/169fKzLN96sw6FkhblYD2k> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:954935"@en .
+
+<http://example.org/ExampleModel/16PaHY1pv1_AsiFvyqZ5ed> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:943176"@en .
+
+<http://example.org/ExampleModel/16PaHY1pv1_AsiFvyqZ5el> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:943168"@en .
+
+<http://example.org/ExampleModel/16PaHY1pv1_AsiFvyqZ5ez> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:943186"@en .
+
+<http://example.org/ExampleModel/16PaHY1pv1_AsiFvyqZ5fN> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:943160"@en .
+
+<http://example.org/ExampleModel/16PaHY1pv1_AsiFvyqZ5qU> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:942961"@en .
+
+<http://example.org/ExampleModel/1AywppwnDDKgY09ulT81U9> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:882703"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8Iq> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:641270"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8L2> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:641280"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8LA> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:641288"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8LC> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:641294"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8Yd> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:640229"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8_i> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:639982"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8_q> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:639990"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8an> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:640371"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8c5> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:640455"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8ce> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:640490"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8dZ> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:640417"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8fK> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:640534"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8qu> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:639354"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8sf> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:639467"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8zH> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:639763"@en .
+
+<http://example.org/ExampleModel/1hDLpYUL549uW6GlM1v8zP> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:639771"@en .
+
+<http://example.org/ExampleModel/1o3dOGwCTA7Bg_anyfze5e> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:666558"@en .
+
+<http://example.org/ExampleModel/1o3dOGwCTA7Bg_anyfze5f> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:666559"@en .
+
+<http://example.org/ExampleModel/1pCenbpND8sx4akFlWCLc7> a beo:Slab ;
+    rdfs:label "Floor:ConcreteRoof:984082"@en .
+
+<http://example.org/ExampleModel/21jz2tRu96EeVez4kgCu5t> a beo:Slab-ROOF ;
+    rdfs:label "Basic_Roof:HistoricRoof:1005737"@en .
+
+<http://example.org/ExampleModel/25$OKD7Qv3mRV0ZBaPXfuV> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:946025"@en .
+
+<http://example.org/ExampleModel/2BO05SMpvCtQnHjspo4WKe> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:571077"@en .
+
+<http://example.org/ExampleModel/2EMZxuIKn8ABmaWlWC4j4s> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801977"@en .
+
+<http://example.org/ExampleModel/2EMZxuIKn8ABmaWlWC4j4t> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801976"@en .
+
+<http://example.org/ExampleModel/2EMZxuIKn8ABmaWlWC4j4u> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801975"@en .
+
+<http://example.org/ExampleModel/2LF2wOkkP3phGcxJYGjM5W> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:550447"@en ;
+    bot:containsElement <http://example.org/ExampleModel/2fNRotFQjF2eL0Gbrc1erj> .
+
+<http://example.org/ExampleModel/2LF2wOkkP3phGcxJYGjNOc> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:553321"@en .
+
+<http://example.org/ExampleModel/2hS4SjCvvBygRNOuhC8cFH> a beo:Slab ;
+    rdfs:label "Floor:ConcreteRoof:980638"@en .
+
+<http://example.org/ExampleModel/2hS4SjCvvBygRNOuhC8co9> a beo:Slab ;
+    rdfs:label "Floor:ConcreteRoof:981446"@en .
+
+<http://example.org/ExampleModel/2iX_Hq02f0xvDZWZGDCMRl> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:324423"@en .
+
+<http://example.org/ExampleModel/2iX_Hq02f0xvDZWZGDCMTG> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:324344"@en .
+
+<http://example.org/ExampleModel/2iX_Hq02f0xvDZWZGDCMTa> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:324300"@en .
+
+<http://example.org/ExampleModel/2iX_Hq02f0xvDZWZGDCMV0> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:324200"@en .
+
+<http://example.org/ExampleModel/3$2eVRk2TCwBzTQZhdJa7i> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801888"@en .
+
+<http://example.org/ExampleModel/3$2eVRk2TCwBzTQZhdJa7j> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801889"@en .
+
+<http://example.org/ExampleModel/3$2eVRk2TCwBzTQZhdJa7k> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801890"@en .
+
+<http://example.org/ExampleModel/3$2eVRk2TCwBzTQZhdJaPa> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801768"@en .
+
+<http://example.org/ExampleModel/3$2eVRk2TCwBzTQZhdJaPb> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801769"@en .
+
+<http://example.org/ExampleModel/3$2eVRk2TCwBzTQZhdJaPc> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801770"@en .
+
+<http://example.org/ExampleModel/3$2eVRk2TCwBzTQZhdJaPg> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801766"@en .
+
+<http://example.org/ExampleModel/3$2eVRk2TCwBzTQZhdJaPh> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:801767"@en .
+
+<http://example.org/ExampleModel/33c2gVWn139fqfogXKDXWH> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:953661"@en .
+
+<http://example.org/ExampleModel/33c2gVWn139fqfogXKDXXe> a beo:Slab ;
+    rdfs:label "Floor:BasicTimberFloor:953668"@en .
+
+<http://example.org/ExampleModel/37IY10Szb8iBSIFe1_ao72> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:613629"@en .
+
+<http://example.org/ExampleModel/3931LB3qv0zeXe4WmJmz8a> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:602063"@en ;
+    bot:containsElement <http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdND> .
+
+<http://example.org/ExampleModel/3LmGCvFzTFuAD6ChPOL7yi> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:656718"@en .
+
+<http://example.org/ExampleModel/3LmGCvFzTFuAD6ChPOL7yj> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:656719"@en .
+
+<http://example.org/ExampleModel/3Nb6bTrATElPEPDNpUFUgW> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber18x12:818921"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY4M> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:377855"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY4g> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:377795"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY4h> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:377794"@en ;
+    bot:containsElement <http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYP5> .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY4i> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:377797"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY4j> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:377796"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY4k> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:377799"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY4l> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry5_40:377798"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY5I> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:377787"@en ;
+    bot:containsElement <http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQZ>,
+        <http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQk> .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY5K> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:377789"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGY5L> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:377788"@en ;
+    bot:containsElement <http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYPD> .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYRf> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:377856"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYRh> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:377858"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1OB> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:554727"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1Tj> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:554881"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1XR> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:555191"@en ;
+    bot:containsElement <http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdGO>,
+        <http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdNp>,
+        <http://example.org/ExampleModel/3Q5exPL5nAoumwdM9a75Kv> .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1ay> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:555472"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1cb> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:555337"@en ;
+    bot:containsElement <http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1cg> .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1cc> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:555338"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1cj> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:555329"@en ;
+    bot:containsElement <http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1ch> .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1ck> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:555330"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1cl> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:555331"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1eG> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:555772"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGeEKa> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:558536"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGeEL4> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:558504"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGeEMS> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:558448"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGeEPb> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:558729"@en ;
+    bot:containsElement <http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGeEOP> .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGeERx> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry6_20:558615"@en .
+
+<http://example.org/ExampleModel/3Q5exPL5nAoumwdM9a75O9> a beo:Wall ;
+    rdfs:label "Basic_Wall:StructuralMasonry4_50:600787"@en ;
+    bot:containsElement <http://example.org/ExampleModel/3Q5exPL5nAoumwdM9a75Ae>,
+        <http://example.org/ExampleModel/3Q5exPL5nAoumwdM9a75Uz> .
+
+<http://example.org/ExampleModel/3QsZlgCOrF$RQvu0xyGvdX> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber18x12:805752"@en .
+
+<http://example.org/ExampleModel/3YQkv_tRz4jQDXu9iW_UBH> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:633857"@en .
+
+<http://example.org/ExampleModel/3YQkv_tRz4jQDXu9iW_UBU> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:633870"@en .
+
+<http://example.org/ExampleModel/3YQkv_tRz4jQDXu9iW_ULX> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:633777"@en .
+
+<http://example.org/ExampleModel/3YQkv_tRz4jQDXu9iW_ULq> a beo:Footing ;
+    rdfs:label "Wall_Foundation:MasonryFooting:633764"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMpoFV> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:610010"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppGB> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:612622"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppGv> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:612668"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppMR> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:612510"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppNI> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:612567"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppaS> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:611353"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppan> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:611380"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppc1> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:611460"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppcv> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:611516"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppqf> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:610348"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppqp> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:610358"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMppr1> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:610372"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMpprB> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:610382"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMpprJ> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:610390"@en .
+
+<http://example.org/ExampleModel/3aUlNOTwrFYfO9hAmMpprb> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:610400"@en .
+
+<http://example.org/ExampleModel/3mz$RE$XH22hqTgjWWf3Wz> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:614658"@en .
+
+<http://example.org/ExampleModel/3mz$RE$XH22hqTgjWWf3d7> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:614648"@en .
+
+<http://example.org/ExampleModel/3mz$RE$XH22hqTgjWWf3dK> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:614635"@en .
+
+<http://example.org/ExampleModel/3mz$RE$XH22hqTgjWWf3da> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:614619"@en .
+
+<http://example.org/ExampleModel/3mz$RE$XH22hqTgjWWf3dm> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:614607"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$IN0> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799142"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$IN1> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799143"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$IN8> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799150"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$IN9> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799151"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INA> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799148"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INB> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799149"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INC> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799146"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$IND> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799147"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INE> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799144"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INF> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799145"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INI> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799156"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INJ> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799157"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INK> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799154"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INL> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799155"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INM> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799152"@en .
+
+<http://example.org/ExampleModel/3s24vlRJT6o8k5PWYy$INN> a beo:Beam ;
+    rdfs:label "TimberBeam:StructuralTimber:799153"@en .
+
+<http://example.org/ExampleModel/3t6UlmJB59tgzGBwNJK92i> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:885374"@en .
+
+<http://example.org/ExampleModel/3t6UlmJB59tgzGBwNJK951> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:885651"@en .
+
+<http://example.org/ExampleModel/3t6UlmJB59tgzGBwNJK959> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:885659"@en .
+
+<http://example.org/ExampleModel/3t6UlmJB59tgzGBwNJK95R> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:885641"@en .
+
+<http://example.org/ExampleModel/3t6UlmJB59tgzGBwNJK973> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:885521"@en .
+
+<http://example.org/ExampleModel/3t6UlmJB59tgzGBwNJK9RW> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:885810"@en .
+
+<http://example.org/ExampleModel/3t6UlmJB59tgzGBwNJK9Rm> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:885794"@en .
+
+<http://example.org/ExampleModel/3t6UlmJB59tgzGBwNJK9Ru> a beo:Beam ;
+    rdfs:label "SpecialRoofBeam:StructuralTimber:885802"@en .
+
+<http://example.org/ExampleModel/02wOJQ5rf4aP8tIRXMG7GA> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:600050"@en .
+
+<http://example.org/ExampleModel/02wOJQ5rf4aP8tIRXMG7I5> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:599933"@en .
+
+<http://example.org/ExampleModel/02wOJQ5rf4aP8tIRXMG7My> a beo:Window ;
+    rdfs:label "empty_window:StoneWindow:599620"@en .
+
+<http://example.org/ExampleModel/0c9XrSCgj1NQdKiSCtKQRm> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:374368"@en .
+
+<http://example.org/ExampleModel/1hyBiYVnrBYBB5mnZfpY$_> a beo:Window ;
+    rdfs:label "empty_window:StoneWindow:353964"@en .
+
+<http://example.org/ExampleModel/1hyBiYVnrBYBB5mnZfpYuB> a beo:Window ;
+    rdfs:label "empty_window:StoneWindow:354137"@en .
+
+<http://example.org/ExampleModel/1hyBiYVnrBYBB5mnZfpYy7> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:353877"@en .
+
+<http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMd6k> a beo:Door ;
+    rdfs:label "empty_arch:StoneArch:354559"@en .
+
+<http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMd7Y> a beo:Door ;
+    rdfs:label "empty_arch:StoneArch:354483"@en .
+
+<http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdDh> a beo:Door ;
+    rdfs:label "empty_arch:StoneArch:354874"@en .
+
+<http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdGO> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:355657"@en .
+
+<http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdIl> a beo:Door ;
+    rdfs:label "empty_arch:StoneArch:355838"@en .
+
+<http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdJa> a beo:Door ;
+    rdfs:label "empty_arch:StoneArch:355765"@en .
+
+<http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdND> a beo:Window ;
+    rdfs:label "empty_window:StoneWindow:355484"@en .
+
+<http://example.org/ExampleModel/29vIp_y4vAgArJXK5JMdNp> a beo:Window ;
+    rdfs:label "empty_window:StoneWindow:355490"@en .
+
+<http://example.org/ExampleModel/2WtfnTF6L6EAnZXb7ltV1B> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:374936"@en .
+
+<http://example.org/ExampleModel/2fNRotFQjF2eL0Gbrc1erj> a beo:Window ;
+    rdfs:label "empty_window:StoneWindow:600124"@en .
+
+<http://example.org/ExampleModel/2j4ftWDnLB6BT67Gogcg63> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:600105"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYP5> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:378028"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYPD> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:378020"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQY> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:377931"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQZ> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:377930"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQ_> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:377943"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQk> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:377927"@en .
+
+<http://example.org/ExampleModel/3P6qVxdBv3F9PHEKrfGYQy> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:377941"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1cg> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:555334"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGe1ch> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:555335"@en .
+
+<http://example.org/ExampleModel/3PTdlObHr0SQW0nJbGeEOP> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:558837"@en .
+
+<http://example.org/ExampleModel/3Q5exPL5nAoumwdM9a75Ae> a beo:Window ;
+    rdfs:label "empty_window:StoneWindow:601714"@en .
+
+<http://example.org/ExampleModel/3Q5exPL5nAoumwdM9a75Ew> a beo:Window ;
+    rdfs:label "empty_window:StoneWindow:601952"@en .
+
+<http://example.org/ExampleModel/3Q5exPL5nAoumwdM9a75Kv> a beo:Door ;
+    rdfs:label "empty_arch:StoneArch:600547"@en .
+
+<http://example.org/ExampleModel/3Q5exPL5nAoumwdM9a75Uz> a beo:Door ;
+    rdfs:label "empty_door:StoneDoor:600935"@en .
+

@@ -124,3 +124,6 @@ def convert_ifc_to_rdf(ifc_file_path, rdf_file_path):
     # Serialize RDF graph to a file in Turtle format
     g.serialize(destination=rdf_file_path, format="turtle")
 
+
+
+
